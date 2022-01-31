@@ -1,0 +1,7 @@
+Jotta projektin voi jakaa GitHubin kautta, sille pitää luoda oma repositorio (kavereille repo) GitHubiin,
+ja tämä repositorio pitää liittää oman koneen Git-projektiin.
+Tämä tapahtuu lisäämällä repo Git-projektin etärepositorioksi, eli remoteksi.
+Kun Git-projektille lisätään etärepositorio,
+on mahdollistä siirtää tietoa sen ja omalla koneella olevan projektin välillä.
+Tällöin projektista on olemassa kaksi versiota: paikallinen (local), eli “omalla koneella” oleva projekti 
+ja etärepositorion versio (remote), eli GitHubissa säilöttävä versio.
